@@ -1,0 +1,12 @@
+ros-indigo-smarthome-light-msgs (0.1.1-1trusty) trusty; urgency=high
+
+  * Upgrade dependency
+  * Rename statedata.
+  * Fix dependency.
+  * Enable package.
+  * Initial commit.
+  * Contributors: Mickael Gaillard
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Fri, 10 Jun 2016 22:00:00 -0000
+
+
